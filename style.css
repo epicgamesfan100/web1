@@ -1,0 +1,23 @@
+body {
+  background-color: #ADD6E8;
+}
+
+h1 {
+  font-family: Cursive;
+  font-weight: bold;
+  color: black;
+}
+
+p {
+  font-family: Cursive;
+  font-weight: 350;
+  color: black;
+}
+
+button {
+  font-family: Cursive;
+  font-weight: 350;
+  color: black;
+  max-width: 100;
+  max-height: auto;
+}
